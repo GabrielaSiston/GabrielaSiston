@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GabrielaSiston
 - 👀 I’m interested in data science and big data
 - 🌱 I’m currently learning Python, SQL, data visualization, R, Dashboard and Storytelling, Treemap, Word Cloud.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects in Python.
 - 📫 How to reach me: bigaconha@gmail.com
 
 <!---
